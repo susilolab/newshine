@@ -1,0 +1,12 @@
+{
+	"latest_version": "1.6",
+	"latest_installer": "newshine-1.6.exe",
+	"latest_archive": "newshine-1.6.zip",
+	"old_version": [
+		{
+			"version": "1.5",
+			"installer": "newshine-1.5.exe",
+			"archive": "newshine-1.5.zip"
+		}
+	]
+}

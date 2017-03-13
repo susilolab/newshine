@@ -30,7 +30,7 @@ NewShine is small mod for Command &amp; Conquer Generals Zero Hour, this mod add
 ![Screenshot 13](ss013.jpg)
 *Nuke launcher exploison*
 
-![Screenshot 14](ss014.jpg)
+![Screenshot 14](ss014.png)
 ![Screenshot 15](ss015.jpg)
 ![Screenshot 16](ss016.jpg)
 ![Screenshot 17](ss017.jpg)

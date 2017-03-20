@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 NewShine v1
 
 adalah mods untuk game Command & Conquer Generals Zero Hour yang dibuat
@@ -112,3 +113,10 @@ Log perubahan:
 - Resource gather untuk china dan usa dikurangi 1 menjadi 2 yg sebelumnya 3
 - Beberapa usa tidak akan menggunakan Power General jika tidak punya command center
 - Infantry minigunner dapat dilindas kendaraan
+=======
+17-03-2017
+- Merubah beberapa harga unit dan bangunan beserta armor untuk lebih menjaga keseimbangan
+
+19-03-2017
+- Mengembalikan script normal AI untuk superweapon ke kondisi semula, sebelumnya script hard masuk ke normal
+>>>>>>> d20e3b69f675b7060238d556711074f24da9f3d1

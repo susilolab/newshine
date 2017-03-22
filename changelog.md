@@ -18,6 +18,11 @@ Know bug:
 
 Log perubahan:
 
+2017-03-22
+- Fix bug gla bomb truck untuk GLA Vanilla, toxin, dan demo
+- Fix kadang2 gla tidak membuat black market
+- Semua GLA akan membuat 5 black market
+
 2017-03-17
 - Merubah beberapa harga unit dan bangunan beserta armor untuk lebih menjaga keseimbangan
 - Fix behavior dari outpost listening untuk beberapa faction china

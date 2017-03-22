@@ -17,7 +17,6 @@ NewShine is small mod for Command &amp; Conquer Generals Zero Hour, this mod add
 ![Screenshot 6](screenshot/ss006.jpg)
 *New firebase effect*
 
-![Screenshot 7](screenshot/ss007.jpg)
 ![Screenshot 8](screenshot/ss008.jpg)
 *All USA missile defender will try to use laser lock against tank spam*
 

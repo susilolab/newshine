@@ -23,15 +23,15 @@ Log perubahan:
 - Fix kadang2 gla tidak membuat black market
 - Semua GLA akan membuat 5 black market
 
+2017-03-19
+- Mengembalikan script normal AI untuk superweapon ke kondisi semula, sebelumnya script hard masuk ke normal
+
 2017-03-17
 - Merubah beberapa harga unit dan bangunan beserta armor untuk lebih menjaga keseimbangan
 - Fix behavior dari outpost listening untuk beberapa faction china
 - Fix cameo untuk overlord tank
 - Fix napalm bomb helix upgrade
 - Fix china overlord tidak mengupgrade 1 dari 3 yaitu gattling/bunker/speaker tower
-
-2017-03-19
-- Mengembalikan script normal AI untuk superweapon ke kondisi semula, sebelumnya script hard masuk ke normal
 
 2016-10-26:
 - Rebel ambush pada Toxin akan menyerang objek yang lebih penting dari internet center seperti
@@ -117,9 +117,3 @@ Log perubahan:
 - Resource gather untuk china dan usa dikurangi 1 menjadi 2 yg sebelumnya 3
 - Beberapa usa tidak akan menggunakan Power General jika tidak punya command center
 - Infantry minigunner dapat dilindas kendaraan
-
-17-03-2017
-- Merubah beberapa harga unit dan bangunan beserta armor untuk lebih menjaga keseimbangan
-
-19-03-2017
-- Mengembalikan script normal AI untuk superweapon ke kondisi semula, sebelumnya script hard masuk ke normal

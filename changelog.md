@@ -13,10 +13,12 @@ Todo:
 - tidak semua bunker pd china terisi, paling enggak selalu diisi
 - jika supply dock terdekat diblok human maka ai dapat membangun di tempatnya sekutu
 
-Know bug:
-- Internet center pada Tank masih belum penuh terisi hacker, kadang cuma 2 hacker, 4.
-
 Log perubahan:
+
+2017-03-28
+- Fix masalah Internet Center tidak terisi penuh pada china tank
+- Fix masalah kadang semua gla tidak membangun Black Market
+- Menganti logika pada pembuatan dozer/worker untuk semua faction
 
 2017-03-22
 - Fix bug gla bomb truck untuk GLA Vanilla, toxin, dan demo

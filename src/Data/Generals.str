@@ -25689,3 +25689,11 @@ END
 CONTROLBAR:MoneyTransferDrop
 "Drop &Money"
 END
+
+CONTROLBAR:FireScudAtPosition
+"S&cud Bombardment"
+END
+
+CONTROLBAR:ToolTipGLAFireScud
+"Bombard targeted area with scud missiles."
+END

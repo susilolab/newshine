@@ -14,6 +14,8 @@ Todo:
 - jika supply dock terdekat diblok human maka ai dapat membangun di tempatnya sekutu
 
 Log perubahan:
+- remove tox cammo, cammo netting, tox shell upg
+- remove slth scorp rock, toxin shell, cammo upg
 
 2017-03-28
 - Fix masalah Internet Center tidak terisi penuh pada china tank
